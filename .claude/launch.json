@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "maze",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "5217"],
+      "port": 5217
+    }
+  ]
+}
